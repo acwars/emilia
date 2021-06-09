@@ -1,0 +1,15 @@
+.clangd
+.ycm_extra_conf.py
+compile_commands.json
+tests
+build/*
+emilia
+TAGS
+TAGS*
+src/TAGS
+src/TAGS*
+emilia.desktop
+.cache
+.cache/*
+src/.cache
+src/.cache/*
